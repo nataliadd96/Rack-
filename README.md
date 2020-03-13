@@ -1,3 +1,3 @@
-#### Rack-
-Control de temperatura 
+## Rack-
+Control de temperatura del rack
 
